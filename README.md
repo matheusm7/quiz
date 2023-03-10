@@ -1,4 +1,6 @@
 # quiz_app
+![quiz](https://user-images.githubusercontent.com/106702324/224416336-c258011e-1635-44fe-b8c3-93f9ae580f17.png)
+
 
 A new Flutter project.
 
